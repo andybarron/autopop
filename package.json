@@ -1,0 +1,16 @@
+{
+  "name": "midi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/node_modules/server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.15.2",
+    "jsmidgen": "0.1.5"
+  }
+}
